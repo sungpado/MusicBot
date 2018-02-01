@@ -7,7 +7,7 @@ import logging
 import tempfile
 import traceback
 import subprocess
-Popen('c:\\windows\\system32\\calc.exe')
+
 
 
 from shutil import disk_usage, rmtree
