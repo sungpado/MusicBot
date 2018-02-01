@@ -1,2 +1,2 @@
 worker: python run.py
-worker: update_dependencies.bat
+worker2: update_dependencies.bat
